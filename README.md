@@ -16,6 +16,10 @@ A. Folders:
 B. ZIP files:
 EDA files for all modules.
 
+D. PPT File explaing all the classes of Universal Verification Method(UVM).
+
+E. Report containg all the results.
+
   
   
 
